@@ -12,3 +12,11 @@ bash_profile
  7.   System Operations & Information
  8.   Web Development
  9.   Reminders & Notes
+
+zsh links:
+
+https://scriptingosx.com/2019/07/moving-to-zsh-06-customizing-the-zsh-prompt/
+
+https://scriptingosx.com/2019/08/moving-to-zsh-part-8-scripting-zsh/
+
+https://github.com/ohmyzsh/ohmyzsh/wiki
