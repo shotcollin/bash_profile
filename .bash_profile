@@ -4,7 +4,7 @@
 
 	# Sections:
 	# 1.	Environment Configuration
-	# 2.	Terminal Configuration (adds aliases and additional functionality)
+	# 2.	Terminal Configuration (aliases and additional functionality)
 	# 3.	File and Folder Management
 	# 4.	Searching
 	# 5.	Process Management
