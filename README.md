@@ -1,6 +1,6 @@
-bash_profile
+.bash_profile  
 
- Description:  This file holds all my BASH configurations and aliases
+Description: contains `bash` configurations and aliases
 
  Sections:
  1. Environment Configuration
@@ -13,10 +13,7 @@ bash_profile
  8. Web Development
  9. Reminders, Notes, & Sources
 
-zsh links:
-
-https://scriptingosx.com/2019/07/moving-to-zsh-06-customizing-the-zsh-prompt/
-
-https://scriptingosx.com/2019/08/moving-to-zsh-part-8-scripting-zsh/
-
+`zsh` links:  
+https://scriptingosx.com/2019/07/moving-to-zsh-06-customizing-the-zsh-prompt/  
+https://scriptingosx.com/2019/08/moving-to-zsh-part-8-scripting-zsh/  
 https://github.com/ohmyzsh/ohmyzsh/wiki
